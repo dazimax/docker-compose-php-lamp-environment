@@ -6,6 +6,7 @@ Steps to setup;
 
 1) Install docker, docker-compose
 2) Setup the network in docker-compose.yml
+
       2.1) Comment out the external network
       2.2) Enable the new network 
 
